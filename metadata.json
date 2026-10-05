@@ -1,0 +1,6 @@
+{
+  "name": "وصلة الكلمات",
+  "description": "لعبة ربط الحروف وشبكة الكلمات المتقاطعة المستوحاة من العلم الشرعي والإسلام بألوان مريحة وهادئة للعين وكتابة واضحة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
